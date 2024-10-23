@@ -27,3 +27,4 @@ Depoyu klonlayın: git clone [https://github.com/alirifatciftci/Ogrenci-Not-Kay-
 Proje dosyalarını açın ve gerekli NuGet paketlerini yükleyin.
 Veritabanı bağlantı ayarlarını yapılandırın.
 Uygulamayı başlatın.
+![sql](https://github.com/user-attachments/assets/5767c5ab-27af-457d-bfc1-d7a61214c59c)
